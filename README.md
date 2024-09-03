@@ -1,1 +1,1 @@
-Estudo didático sobre estruturas de repetições C#
+Estudo didático sobre estrutura de repetição FOR em C#
